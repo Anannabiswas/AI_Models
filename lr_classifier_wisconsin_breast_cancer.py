@@ -35,6 +35,12 @@ print("Labels: ", cancer.target_names)
 print(X.shape)
 print(y.shape)
 
+# Print target names 
+#print(cancer.target_names)
+
+# Print unique values in y 
+#print(set(cancer.target))
+
 """# Splitting Data
 To understand model performance, dividing the dataset into a training set and a test set is a good strategy.
 
