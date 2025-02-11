@@ -5,18 +5,18 @@
 ## ** Overview**  
 This repository contains a **Logistic Regression (LR) classifier** implemented for the **Wisconsin Breast Cancer Dataset** using **Scikit-Learn**. The model is trained, validated, and tested using **K-Fold Cross-Validation** and **hyperparameter tuning** to optimize performance.  
 
-## ** Files**  
+##  Files 
 - **`LR_Classifier_Wisconsin_Breast_Cancer.ipynb`** – Jupyter Notebook with step-by-step implementation, explanations, and results.  
 - **`lr_classifier_wisconsin_breast_cancer.py`** – Python script version for quick execution.  
 
-## **📊 Dataset**  
+## Dataset 
 - The **Wisconsin Breast Cancer Dataset** from `sklearn.datasets` is used. You can also check the dataset from here: https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic 
 - It contains **569 samples** with **30 features** each.  
 - **Target variable (`y`)**:  
   - `0` → Malignant (cancerous)  
   - `1` → Benign (non-cancerous)  
 
-## **🛠️ Implementation Steps**  
+##  Implementation Steps  
 1. **Data Loading & Preprocessing**  
 2. **Train-Test Split (70-30 split)**  
 3. **Model Training using Logistic Regression**  
@@ -25,11 +25,11 @@ This repository contains a **Logistic Regression (LR) classifier** implemented f
 6. **Hyperparameter Tuning using GridSearchCV**  
 
 
-## **How to Run**  
-### **Run the Jupyter Notebook**  
+## How to Run  
+### Run the Jupyter Notebook 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Anannabiswas/AI_Models.git
    ```
 2. Open the notebook:  
    ```bash
@@ -37,20 +37,18 @@ This repository contains a **Logistic Regression (LR) classifier** implemented f
    ```
 3. Run the cells sequentially.  
 
-### **Run the Python Script**  
+### Run the Python Script 
 ```bash
 python lr_classifier_wisconsin_breast_cancer.py
 ```
 
-## **📌 Dependencies**  
+## Dependencies  
 Install required libraries:  
 ```bash
 pip install numpy pandas scikit-learn
 ```
 
-## **📧 Contact**  
+## Contact 
 If you have any questions, feel free to reach out! 😊  
 
----
 
-Let me know if you want any modifications! 
