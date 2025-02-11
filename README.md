@@ -1,7 +1,7 @@
 # **Logistic Regression Classifier for Wisconsin Breast Cancer Dataset**  
 
 ##  Overview  
-This repository contains a **Logistic Regression (LR) classifier** implemented for the **Wisconsin Breast Cancer Dataset** using **Scikit-Learn**. The model is trained, validated, and tested using **K-Fold Cross-Validation** and **hyperparameter tuning** to optimize performance.  
+This repository contains a Logistic Regression (LR) classifier implemented for the Wisconsin Breast Cancer Dataset using Scikit-Learn. The model is trained, validated, and tested using K-Fold Cross-Validation and hyperparameter tuning to optimize performance.  
 
 ##  Files 
 - **`LR_Classifier_Wisconsin_Breast_Cancer.ipynb`** – Jupyter Notebook with step-by-step implementation, explanations, and results.  
